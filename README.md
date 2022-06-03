@@ -1,1 +1,1 @@
-# videogame-encyclopedia
+# Videogame Encyclopedia
